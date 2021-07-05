@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tanguy.deleage0@gmail.com
+	name = tanguy deleage
